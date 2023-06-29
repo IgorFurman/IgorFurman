@@ -63,3 +63,6 @@ Future Skills and Tools:
 Stats and others:
 
 <img align='left'  alt='igor furman stats' src="https://github-readme-stats-khaki-sigma.vercel.app/api?username=IgorFurman" />
+
+<img align='right'  alt='igor furman stats langht' src="https://github-readme-stats-khaki-sigma.vercel.app/api?top-langs/?username=IgorFurman />
+
