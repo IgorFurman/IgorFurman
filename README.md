@@ -25,7 +25,7 @@ hack the box
 
 Connect with me:
 <img align="left" alt="igor furman linked in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-img align="left" alt="igor furman linked in" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="igor furman linked in" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 Actual Skills and Tools:
@@ -33,7 +33,7 @@ Actual Skills and Tools:
 <img align="left" alt="CSS3" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="39px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_redux_icon_130386.png" />
+<img align="left" alt="Redux" width="39px" src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_redux_icon_130386.png](https://brandslogos.com/wp-content/uploads/images/redux-logo.png)" />
 <img align="left" alt="Redux-Saga" width="39px" src="https://redux-saga.js.org/logo/0800/Redux-Saga-Logo-Landscape.png" />
 <img align="left" alt="React Router" width="39px" src="https://www.vectorlogo.zone/logos/reacttraining/react-router/react-router-icon.svg" />
 <img align="left" alt="Styled Components" width="39px" src="https://styled-components.com/logo.png" />
@@ -53,8 +53,7 @@ Future Skills and Tools:
 <img align="left" alt="Server Side Rendering" width="39px" src="https://iconape.com/wp-content/png_logo_vector/server-side-rendering.png" />
 <img align="left" alt="TypeScript" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Unit Testing" width="39px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<img align="left" alt="Cypress" width="39px" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" />
-<img align="left" alt="JS Classes" width="39px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" />
+<img align="left" alt="Cypress" width="39px" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" /
 <img align="left" alt="React Native" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
 
 <br />
