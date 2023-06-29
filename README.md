@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/igor-furman-76a49022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-furman-76a49022a/" height="30" width="40" /></a>
-<a href="https://fb.com/igor furman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor furman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igor-furman-76a49022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-furman-76a49022a/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/igor.furman.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor furman" height="30" width="40" /></a>
 <a href="https://instagram.com/igor_fuurman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igor_fuurman" height="30" width="40" /></a>
 </p>
 
@@ -27,11 +27,12 @@
 
 
 <h3 align="left">Future Skills and Tools:</h3>
+<p align="left">
 <img align="left" alt="Server Side Rendering" width="40" src="https://iconape.com/wp-content/png_logo_vector/server-side-rendering.png" />
 <img align="left" alt="TypeScript" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Unit Testing" width="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Cypress" width="40" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" /
-<img align="left" alt="React Native" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+<img align="left" alt="React Native" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> </p>
 
 
 <h3 align="left">Stats and others:</h3>
