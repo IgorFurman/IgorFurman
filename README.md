@@ -28,10 +28,10 @@
 <h3 align="left">Future Skills and Tools:</h3>
 <p align="left">
 <img align="left" alt="Server Side Rendering" width="40" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
-<img align="left" alt="TypeScript" width="40" src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg" />
-<img align="left" alt="Unit Testing" width="40" src="https://seeklogo.com/vector-logo/273561/jest" />
-<img align="left" alt="Cypress" width="40" src="https://seeklogo.com/free-vector-logos/cypress" />
-<img align="left" alt="React Native" width="40" src="https://seeklogo.com/free-vector-logos/react-native" /> </p>
+<img align="left" alt="TypeScript" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" />
+<img align="left" alt="Unit Testing" width="40" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" />
+<img align="left" alt="Cypress" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" />
+<img align="left" alt="React Native" width="40" src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" /> </p>
 
 
 <h3 align="left">Stats and others:</h3>
