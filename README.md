@@ -27,7 +27,7 @@
 
 <h3 align="left">Future Skills and Tools:</h3>
 <p align="left">
-<img align="left" alt="Server Side Rendering" width="40" src="https://seeklogo.com/vector-logo/273435/nextjs" />
+<img align="left" alt="Server Side Rendering" width="40" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
 <img align="left" alt="TypeScript" width="40" src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg" />
 <img align="left" alt="Unit Testing" width="40" src="https://seeklogo.com/vector-logo/273561/jest" />
 <img align="left" alt="Cypress" width="40" src="https://seeklogo.com/free-vector-logos/cypress" />
