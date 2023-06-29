@@ -62,7 +62,17 @@ Future Skills and Tools:
 <br />
 Stats and others:
 
-<img align='left'  alt='igor furman stats' src="https://github-readme-stats-khaki-sigma.vercel.app/api?username=IgorFurman" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<img align='right'  alt='igor furman stats langueges' src="https://github-readme-stats-khaki-sigma.vercel.app/api/top-langs?username=IgorFurman" />
+  ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorFurman&show_icons=true&theme=tokyonight)
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFurman&theme=tokyonight)
+
+</details>
 
