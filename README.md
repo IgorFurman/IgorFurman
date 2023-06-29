@@ -1,77 +1,34 @@
+<h1 align="center">Hi there 👋, I'm Igor Furman</h1>
+<h3 align="center">I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like React.js, Redux, JavaScript (ES6), and CSS3/HTML5. I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions. I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorfurman&label=Profile%20views&color=0e75b6&style=flat" alt="igorfurman" /> </p>
 
+- 🔭 I’m currently working on **Various front-end projects which you can see on my GitHub**
 
+- 🌱 I’m currently learning **Further deepening my knowledge in React.js.**
 
+- 👯 I’m looking to **Junior/Internship front-end developer role.**
 
-## Hi there, I'm Igor 👋
+- 👨‍💻 All of my projects are available at [https://tiny.pl/cgktf](https://tiny.pl/cgktf)
 
-I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like React.js, Redux, JavaScript (ES6), and CSS3/HTML5. I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions.
+- 💬 Ask me about **React**
 
-I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.
+- 📫 How to reach me **Gmail, LinkedIn**
 
-🔭 Currently working on: Various front-end projects which you can see on my GitHub.
+- 📄 My experience [Junior/Internship front-end developer role.](Junior/Internship front-end developer role.)
 
-🌱 Currently learning: Further deepening my knowledge in React.js.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/igor-furman-76a49022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-furman-76a49022a/" height="30" width="40" /></a>
+<a href="https://fb.com/igor furman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor furman" height="30" width="40" /></a>
+<a href="https://instagram.com/igor_fuurman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igor_fuurman" height="30" width="40" /></a>
+</p>
 
-👯 I am in search of: Junior/Internship front-end developer role.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-🤔 Looking for help with: Getting involved in open source projects and improving my code reviewing skills.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorfurman&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="igorfurman" /></p>
 
-📫 How to reach me: You can reach out to me on LinkedIn or Gmail.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igorfurman&show_icons=true&theme=tokyonight&locale=en" alt="igorfurman" /></p>
 
-I'm always open to new opportunities and collaborations, so don't hesitate to get in touch. Also, feel free to take a look at my personal website to see some of my projects and learn more about my skills and experience: [https://tiny.pl/cgktf]
-<br/>
-hack the box
-
-Connect with me:
-<img align="left" alt="igor furman linked in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="igor furman linked in" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-<br />
-Actual Skills and Tools:
-<img align="left" alt="HTML5" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="39px" src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_redux_icon_130386.png](https://brandslogos.com/wp-content/uploads/images/redux-logo.png)" />
-<img align="left" alt="Redux-Saga" width="39px" src="https://redux-saga.js.org/logo/0800/Redux-Saga-Logo-Landscape.png" />
-<img align="left" alt="React Router" width="39px" src="https://www.vectorlogo.zone/logos/reacttraining/react-router/react-router-icon.svg" />
-<img align="left" alt="Styled Components" width="39px" src="https://styled-components.com/logo.png" />
-<img align="left" alt="Tailwind" width="39px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Bootstrap" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Node.js" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Firebase" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Git" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="39px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-<br />
-Future Skills and Tools:
-<img align="left" alt="Server Side Rendering" width="39px" src="https://iconape.com/wp-content/png_logo_vector/server-side-rendering.png" />
-<img align="left" alt="TypeScript" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Unit Testing" width="39px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<img align="left" alt="Cypress" width="39px" src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" /
-<img align="left" alt="React Native" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-
-<br />
-<br />
-<br />
-Stats and others:
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorFurman&show_icons=true&theme=tokyonight)
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFurman&theme=tokyonight)
-
-</details>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorfurman&theme=highcontrast" alt="igorfurman" /></p>
