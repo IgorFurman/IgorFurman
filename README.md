@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Igor Furman</h1>
-<h3 align="center">I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like React.js, Redux, JavaScript (ES6), and CSS3/HTML5. I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions. I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.</h3>
+<h3 align="left">I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like React.js, Redux, JavaScript (ES6), and CSS3/HTML5. I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions. I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorfurman&label=Profile%20views&color=0e75b6&style=flat" alt="igorfurman" /> </p>
 
