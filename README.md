@@ -1,3 +1,8 @@
+
+
+<p align="center"> <img src="https://i.imgur.com/LKCF5eF.gif" alt="hello dog working on mac gif" height="400" width="700"  /> </p>
+
+
 <h1 align="center">Hi there 👋, I'm Igor Furman</h1>
 <h3 align="left">I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like React.js, Redux, JavaScript (ES6), and CSS3/HTML5. I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions. I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.</h3>
 
@@ -19,10 +24,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/igor-furman-76a49022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-furman-76a49022a/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/igor.furman.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor furman" height="30" width="40" /></a>
-<a href="https://instagram.com/igor_fuurman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igor_fuurman" height="30" width="40" /></a>
     <a href="mailto:igorfurman555@gmail.com">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" />
     </a>
+    <a href="https://instagram.com/igor_fuurman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igor_fuurman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,7 +55,9 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFurman&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFurman&theme=tokyonight&layout=donut-vertical)
 
 </details>
+
+
 </p>
