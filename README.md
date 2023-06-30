@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://i.imgur.com/LKCF5eF.gif" alt="hello dog working on mac gif" height="400" width="700"  /> </p>
+<p align="center"> <img src="./hellogif.gif" alt="hello dog working on mac gif" height="400" width="700"  /> </p>
 
 
 <h1 align="center">I'm Igor Furman</h1>
@@ -8,19 +8,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorfurman&label=Profile%20views&color=0e75b6&style=flat" alt="igorfurman" /> </p>
 
-- 🔭 I’m currently working on **Various front-end projects which you can see on my GitHub**
+- 🔭 I’m currently working on **Improving performance of PlanYourTrip and BigCloud projects**
 
 - 🌱 I’m currently learning **Further deepening my knowledge in React.js.**
 
 - 👯 I’m looking to **Junior/Internship front-end developer role.**
 
-- 👨‍💻 All of my projects are available at [https://tiny.pl/cgktf](https://tiny.pl/cgktf)
+- 👨‍💻 All of my projects are available <a href="https://github.com/IgorFurman?tab=repositories" target="blank"> here </a>
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Gmail, LinkedIn**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/igor-furman-76a49022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-furman-76a49022a/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/igor.furman.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor furman" height="30" width="40" /></a>
