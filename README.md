@@ -4,17 +4,17 @@
 
 
 <h1 align="center">I'm Igor Furman</h1>
-<h3 align="left">I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like React.js, Redux, JavaScript (ES6), and CSS3/HTML5. I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions. I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.</h3>
+<p align="left">I'm a front-end developer who is passionate about creating efficient, user-friendly interfaces with modern technologies like <b>React.js, Redux, JavaScript (ES6), and CSS3/HTML5.</b>I like the challenges associated with implementing new functionalities into my applications. I'm continuously learning and keeping up with the latest trends in web development to deliver the best possible solutions. I'm dedicated to continuous learning and staying updated with the latest trends in web development, aiming to deliver cutting-edge solutions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorfurman&label=Profile%20views&color=0e75b6&style=flat" alt="igorfurman" /> </p>
 
-- 🔭 I’m currently working on **Improving performance of PlanYourTrip and BigCloud projects**
+- 🔭 I’m currently working on - **Improving performance of PlanYourTrip and BigCloud projects**
 
-- 🌱 I’m currently learning **Further deepening my knowledge in React.js.**
+- 🌱 I’m currently learning  - **Further deepening my knowledge in React.js.**
 
-- 👯 I’m looking to **Junior/Internship front-end developer role.**
+- 👯 I’m looking to - **Junior/Internship front-end developer role.**
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/IgorFurman?tab=repositories" target="blank"> here </a>
+- 👨‍💻 All of my projects are available - **<a href="https://github.com/IgorFurman?tab=repositories" target="blank">Here</a>**
 
 - 💬 Ask me about **React**
 
