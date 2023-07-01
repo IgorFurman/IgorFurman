@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorfurman&label=Profile%20views&color=0e75b6&style=flat" alt="igorfurman" /> </p>
 
-- 🔭 I’m currently working on - **Improving performance of PlanYourTrip and BigCloud projects**
+- 🔭 I’m currently working on - **Improving performance of PlanYourTrip and VapeShop projects**
 
 - 🌱 I’m currently learning  - **Further deepening my knowledge in React.js.**
 
